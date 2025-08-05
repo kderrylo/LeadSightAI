@@ -85,7 +85,12 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. Run the app
+4. Pull the Ollama Model 
+```bash
+ollama pull llama3.2:3b
+```
+
+5. Run the app
 ```bash
 streamlit run app.py
 ```
@@ -109,11 +114,9 @@ leadsightai/
 │   ├── data_handling.py    # Company data management
 │   ├── scraping.py         # Website scraping logic
 │   ├── chat_rag.py         # ChatRAG and LLM pipeline
-│   ├── ui_components.py    # UI components and layout
-│   └── utils.py            # Helper functions
+│   └── ui_components.py    # UI components and layout
 └── data/
     └── company_data.csv    # Sample dataset
-
 ```
 
 ---

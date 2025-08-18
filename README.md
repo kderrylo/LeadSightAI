@@ -13,10 +13,6 @@
 ## 📝 About the Project
 **LeadSightAI** is a Streamlit-based application designed to help users discover and analyze company information for lead generation and business intelligence. It features a searchable company database and an interactive ChatRAG (Retrieval-Augmented Generation) interface, allowing users to extract insights from company websites. With built-in export options for CSV and Excel, it’s a practical tool for marketers, analysts, and researchers.
 
-
-## 📝 About the Project
-LeadSightAI is a Streamlit-based application designed to assist users in discovering and analyzing company information for lead generation and business intelligence. It combines a searchable company database with an interactive ChatRAG (Retrieval-Augmented Generation) feature, enabling users to extract insights from company websites. With built-in export options for CSV and Excel, it’s a practical tool for marketers, analysts, and researchers looking to streamline their workflows.
-
 ---
 
 ## 🎯 Purpose
